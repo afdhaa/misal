@@ -3,3 +3,6 @@
 <?php echo "tambahan gan"; ?>
 --ini bagian dari jangkrik--
 <?php echo "jangkrik bos"; ?>
+
+--ini bagian dari jangkri2k--
+<?php echo "jangkrik bos2"; ?>
