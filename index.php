@@ -1,1 +1,3 @@
-<?php echo "hello word" ?>
+<?php echo "hello word"; ?>
+--ini bagian dari werwer--
+<?php echo "tambahan gan"; ?>
